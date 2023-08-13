@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://media.tenor.com/leHZkRiz-lIAAAAd/celeste.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">Hey there!, I'm Julian, a passionate student for software development and computer science about to finish his major 👾
 </div>  
