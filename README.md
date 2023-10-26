@@ -3,7 +3,7 @@
 </div>  
   
 
-- 🎓 I'm in 9th semester of System Engineering at [Univalle](https://www.univalle.edu.co).  
+- 🎓 I'm in 10th semester of System Engineering at [Univalle](https://www.univalle.edu.co).  
   
 
 - 🔎 I’m currently working on my graduation project related with software development in health.   
