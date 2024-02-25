@@ -1,6 +1,6 @@
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/52895213?v=4" alt="Julian Pic" width="150" height="150" style="border-radius:50%;">
+  
   <div align="center" style="margin-top: 5px;">
     <b style="font-size: 20px;">Julian Andrés Salamanca Tellez</b><br>
     <font color="#808080">Systems Engineer Student</font>
