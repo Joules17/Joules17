@@ -3,7 +3,7 @@
   
   <div align="center" style="margin-top: 5px;">
     <b style="font-size: 20px;">Julian Andrés Salamanca Tellez</b><br>
-    <font color="#808080">Systems Engineer Student</font>
+    <font color="#808080">Systems Engineer</font>
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 ### About Me
 
-- 🎓 I'm in 10th semester of System Engineering at [Univalle](https://www.univalle.edu.co).  
+- 🎓 I got my degree in Systems Engineering from [Univalle](https://www.univalle.edu.co).  
 - 🔎 I’m currently learning: GO, VUE and Tailwind CSS.   
 - 🧩 I am committed to continuous learning to further my professional growth.
 - 🤝 I enjoy teamwork and I stand out for being a collaborative and respectful individual.
