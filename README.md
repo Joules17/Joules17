@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <p>👋 Hi, I'm Julian! Software Developer </p>
+  <p>👋 Hi, I'm Julian! </p>
 </div>
 
 ### About Me
