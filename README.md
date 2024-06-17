@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <p>👋 Hi, I'm Julian! Just completed my Systems Engineering career, eagerly waiting for graduation.</p>
+  <p>👋 Hi, I'm Julian! Software Developer </p>
 </div>
 
 ### About Me
